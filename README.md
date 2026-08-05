@@ -73,5 +73,5 @@ Hello there! <em><b>I'm Vishwajeet Deshmukh</b></em>, a BTech CSE student. I enj
 <h2 align="center"><em> Statistics </em> </h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishwajeetdeshmukhdeveloper&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hey-vishwajeet&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 </p>
