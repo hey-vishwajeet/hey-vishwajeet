@@ -38,8 +38,9 @@ Hello there! <em><b>I'm Vishwajeet Deshmukh</b></em>, a BTech CSE student. I enj
 <td width="30%" align="center" valign="middle">
 
 
+
 <img
-  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3o1OTA0eGJqZ2FmbmxqdHR1Y3Z2bWZwcnlja2Jic2J0Ym4wc3pnNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3b8jzcVoLllgFmbvQu/giphy.gif"
+  src="https://i.giphy.com/media/l0MYuxp3Rjlrka8mY/giphy.gif"
   width="220"
   alt="Coding animation"
 />
