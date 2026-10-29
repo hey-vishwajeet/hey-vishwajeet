@@ -37,7 +37,13 @@ Hello there! <em><b>I'm Vishwajeet Deshmukh</b></em>, a BTech CSE student. I enj
 </td>
 <td width="30%" align="center" valign="middle">
 
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="220"/>
+
+<img
+  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3o1OTA0eGJqZ2FmbmxqdHR1Y3Z2bWZwcnlja2Jic2J0Ym4wc3pnNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3b8jzcVoLllgFmbvQu/giphy.gif"
+  width="220"
+  alt="Coding animation"
+/>
+
 </td>
 </tr>
 </table>
