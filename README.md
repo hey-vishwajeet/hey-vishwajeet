@@ -74,12 +74,14 @@ Hello there! <em><b>I'm Vishwajeet Deshmukh</b></em>, a BTech CSE student. I enj
 <h2 align="center"><em>GitHub Statistics</em></h2>
 
 
+
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=hey-vishwajeet&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+    src="https://github-stats-extended.vercel.app/api?username=hey-vishwajeet&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
     alt="Vishwajeet's GitHub Statistics"
   />
 </p>
+
 
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hey-vishwajeet&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"
