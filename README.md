@@ -39,11 +39,8 @@ Hello there! <em><b>I'm Vishwajeet Deshmukh</b></em>, a BTech CSE student. I enj
 
 
 
-<img
-  src="https://i.giphy.com/media/l0MYuxp3Rjlrka8mY/giphy.gif"
-  width="220"
-  alt="Coding animation"
-/>
+<img src="./assets/eye.gif" width="220" alt="Coding animation" />
+
 
 </td>
 </tr>
