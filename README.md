@@ -25,22 +25,24 @@
 <tr>
 <td width="70%" valign="middle">
 
-Hello there! <em><b>I'm Vishwajeet Deshmukh</b></em>, a BTech CSE student. I enjoy learning new technologies and solving problems in Python and applied ML. Right now I'm working on a few web and AI projects to put my Django, TensorFlow, and React skills into practice.
+<em>Most people use apps. I'd rather <b>build</b> them.</em>
 
-<br/>
+<br/><br/>
 
-<em><b>Studying BTech in Computer Science &amp; Engineering</b></em><br/>
-<em><b>Building SmartAgri, Alpha Robot Companion &amp; ExpensesPro</b></em><br/>
-<em><b>Learning Django &amp; Machine Learning</b></em><br/>
-<em><b>Founder at Vishv Technologies</b></em><br/>
+I'm <em><b>Vishwajeet Deshmukh</b></em>, a Computer Science student who turns ideas into working software, from <b>AI that helps farmers</b> (SmartAgri) to a <b>robot companion</b> (Alpha) to tools that make money management simpler (ExpensesPro).
+
+<br/><br/>
+
+I work mostly in <b>Python</b>, using <b>Django</b>, <b>TensorFlow</b> and <b>React</b> to connect machine learning with products people can actually use. I'm also the founder of <b>Vishv Technologies</b>, where I'm learning what it takes to go from a late-night idea to a real product.
+
+<br/><br/>
+
+<em><b>My goal: build intelligent software that solves real problems, and keep shipping until it does.</b></em>
 
 </td>
 <td width="30%" align="center" valign="middle">
 
-
-
 <img src="./assets/eye.gif" width="220" alt="Coding animation" />
-
 
 </td>
 </tr>
@@ -74,10 +76,7 @@ Hello there! <em><b>I'm Vishwajeet Deshmukh</b></em>, a BTech CSE student. I enj
 
 <br/>
 
-
 <h2 align="center"><em>GitHub Statistics</em></h2>
-
-
 
 <p align="center">
   <img
@@ -85,8 +84,3 @@ Hello there! <em><b>I'm Vishwajeet Deshmukh</b></em>, a BTech CSE student. I enj
     alt="Vishwajeet's GitHub Statistics"
   />
 </p>
-
-
-
-
-
