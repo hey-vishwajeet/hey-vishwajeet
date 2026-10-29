@@ -29,7 +29,7 @@
 
 I'm <em><b>Vishwajeet Deshmukh</b></em>, a Computer Science student who turns ideas into working software, from <b>AI that helps farmers</b> (SmartAgri) to a <b>robot companion</b> (Alpha) to tools that make money management simpler (ExpensesPro).
 
-I work mostly in <b>Python</b>, using <b>Django</b>, <b>TensorFlow</b> and <b>React</b> to connect machine learning with products people can actually use. I'm also the founder of <b>Vishv Technologies</b>, where I'm learning what it takes to go from a late-night idea to a real product.
+I work mostly in <b>Python</b>, using <b>Django</b>, <b>TensorFlow</b> and <b>Flutter</b> to connect machine learning with products people can actually use. I'm also the founder of <b>Vishv Technologies</b>, where I'm learning what it takes to go from a late-night idea to a real product.
 
 <em><b>My goal: build intelligent software that solves real problems, and keep shipping until it does.</b></em>
 
