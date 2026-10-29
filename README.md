@@ -70,8 +70,30 @@ Hello there! <em><b>I'm Vishwajeet Deshmukh</b></em>, a BTech CSE student. I enj
 
 <br/>
 
-<h2 align="center"><em> Statistics </em> </h2>
+
+<h2 align="center"><em>GitHub Statistics</em></h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hey-vishwajeet&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=hey-vishwajeet&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff"
+    height="165"
+    alt="GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hey-vishwajeet&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"
+    height="165"
+    alt="Most used programming languages"
+  />
 </p>
+
+<h2 align="center"><em>Contribution Activity</em></h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hey-vishwajeet&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"
+    width="100%"
+    alt="GitHub contribution activity graph"
+  />
+</p>
+
+
