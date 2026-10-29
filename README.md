@@ -83,21 +83,23 @@ Hello there! <em><b>I'm Vishwajeet Deshmukh</b></em>, a BTech CSE student. I enj
 </p>
 
 
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hey-vishwajeet&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff"
-    height="165"
-    alt="Most used programming languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=hey-vishwajeet&layout=compact&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&hide_border=true"
+    alt="Most Used Programming Languages"
   />
 </p>
 
 <h2 align="center"><em>Contribution Activity</em></h2>
 
+
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=hey-vishwajeet&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=hey-vishwajeet&theme=github-compact"
     width="100%"
-    alt="GitHub contribution activity graph"
+    alt="GitHub Contribution Activity"
   />
 </p>
+
 
 
